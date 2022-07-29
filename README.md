@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 1 - Darryl Santmayor
 
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
@@ -6,7 +6,6 @@
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 ![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--9-lightgrey)
 
-![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
 
 ## Project 9 [Live Link](https://live-proj-9.netlify.app)
 
@@ -18,7 +17,7 @@
 
 ## Time taken to finish this project
 
--   4.5 hour taken to complete it.
+-   5 hour taken to complete it.
 
 #### Screenshot
 
